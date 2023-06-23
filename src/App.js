@@ -14,7 +14,7 @@ function App({signOut}) {
   return (
     <div className="App">
       <h1>My Site</h1>
-      <Button onClick={signOut}>Sign Out</Button>
+      <Button onClick={signOut}>Sign Out Now</Button>
     </div>
   );
 }
